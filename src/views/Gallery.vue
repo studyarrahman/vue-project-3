@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="card mb-4">
-            <img class="card-img-top" src="/assets/images/gallery-1.jpg" alt="Gallery Image">
+            
             <div class="card-body">
               <h5 class="card-title">Project 1</h5>
               <p class="card-text">this</p>
@@ -19,7 +19,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4">
-            <img class="card-img-top" src="/assets/images/gallery-2.jpg" alt="Gallery Image">
+         
             <div class="card-body">
               <h5 class="card-title">Project 2</h5>
               <p class="card-text">this</p>
@@ -29,7 +29,7 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4">
-            <img class="card-img-top" src="/assets/images/gallery-3.jpg" alt="Gallery Image">
+            
             <div class="card-body">
               <h5 class="card-title">Project 3</h5>
               <p class="card-text">this</p>
